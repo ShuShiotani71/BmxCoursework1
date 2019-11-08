@@ -1,5 +1,5 @@
 # BmxCoursework1
 Biomechanics
 
-ipynb code for miomechanics coursework 1, PartA and PartB
+ipynb code for biomechanics coursework 1, PartA and PartB
 
